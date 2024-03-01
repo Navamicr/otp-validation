@@ -74,7 +74,7 @@ const App = () => {
 
 
   return (
-    <form className='form' action=''>
+    <form className='flex flex-col justify-center items-center'>
       <h3 className='text-3xl mb-8'>Please fill in the otp</h3>
       <Formik>
         <div>
